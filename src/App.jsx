@@ -1,10 +1,11 @@
 import React from 'react';
+import Welcome from './pages/welcome';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-       <h1>crazy minds</h1>
+       < Welcome />
       </header>
     </div>
   );
